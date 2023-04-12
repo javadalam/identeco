@@ -1,0 +1,122 @@
+[
+    {
+      "date": "2023-03-23T00:00:00Z",
+      "href": "https://identeco.de/en/blog/choosing_a_secure_password/",
+      "objectID": "e884a2964e56f32e9cdd158921d10349",
+      "summary": "A strong password is important to protect our accounts and data from unauthorised access. Hackers and criminals can exploit vulnerabilities in our passwords to gain access to our accounts, steal our personal information and cause direct or indirect financial damage.\nIf a criminal cracks your password, they may be able to access your personal information, including your address information, banking information, national insurance number, credit card information and more. In addition, hackers may be able to use your password to send spam emails from your account, infecting you or your contacts with malware.",
+      "tags": ["Password"],
+      "title": "How to choose as secure password?"
+    },
+    {
+      "date": "2023-03-02T00:00:00Z",
+      "href": "https://identeco.de/en/blog/multi-factor-authentication_only_as_strong_as_the_weakest_link_in_the_chain/",
+      "objectID": "1671ab344b9b22fee9a93a104c1aab02",
+      "summary": "Multifactor authentication (MFA) is a method of increasing the security of online services that uses multiple factors to verify a user\u0026rsquo;s identity. There are three basic factors used in authentication: knowledge, possession and biometrics.\nKnowledge-Based Procedure The knowledge-based method verifies what the user knows. An example of this type of multi-factor authentication is the use of so-called \u0026ldquo;Knowledge-Based Authentication\u0026rdquo; (KBA) questions. Here, the user must answer a series of personal questions during registration, the answers to which only he or she should know.",
+      "tags": ["MFA", "Authentication"],
+      "title": "Multifactor Authentication (MFA): Only as strong as the weakest link in the chain"
+    },
+    {
+      "date": "2023-02-22T00:00:00Z",
+      "href": "https://identeco.de/en/blog/sms-phishing-vishing-e-mail-clone-phishing/",
+      "objectID": "7b14e37163f65f854f5a2125727cbd42",
+      "summary": "Phishing is a form of cyber attack in which attackers attempt to trick users into revealing sensitive information by pretending being a trusted source. There are different variants of phishing. In this blog post, we present three specific types of phishing: Smishing, Vishing and Email Clone Phishing. It thus continues our series on phishing: Phishing, What Is It All About? (Part 1) und Phishing, What Is It All About? (Part 2).",
+      "tags": ["Phishing"],
+      "title": "Phishing, what is it actually? (Part 3)"
+    },
+    {
+      "date": "2023-02-08T00:00:00Z",
+      "href": "https://identeco.de/en/blog/phishing_2023_ransomware_deepfakes_chatgpt/",
+      "objectID": "70cd7dd7e26ebbc167f029fc2c2ea9fd",
+      "summary": "Phishing attacks are one of the biggest threats in the digital world and a steady increase has been observed for years. It is likely that this will continue in 2023. Here are some predictions of what we expect to see in 2023 in the context of phishing attacks.\nIncrease in Ransomware Incidents Phishing attacks are usually the first step to deploy ransomware into corporate infrastructures. The insidious malware spreads in the internal network and then encrypts critical business data.",
+      "tags": ["Phishing", "AI", "Deepfake"],
+      "title": "Phishing in 2023 - Our Predictions"
+    },
+    {
+      "date": "2023-01-31T00:00:00Z",
+      "href": "https://identeco.de/en/blog/verify_login_credentials_to_protect_against_credential-stuffing_attacks/",
+      "objectID": "52fe51a2279ed8e95ac33975cad595da",
+      "summary": "Users to Verify Their Login Credentials to Protect against Credential-Stuffing Attacks Checking credentials against leaked login information is an important safeguard to protect against credential stuffing attacks, as it helps prevent the use of stolen credentials.\nWhen users check their credentials on a platform that matches whether the data has been leaked in the past, they can determine whether their credentials may have already fallen into the hands of attackers. If so, they should change their password as soon as possible and, if necessary, consider other security measures such as enabling two-factor authentication.",
+      "tags": ["Credential Stuffing", "Account Takeover"],
+      "title": "Verify Login Credentials to Protect against Credential-Stuffing Attacks"
+    },
+    {
+      "date": "2023-01-26T00:00:00Z",
+      "href": "https://identeco.de/en/blog/risks_to_users_of_online_platforms_from_credential-stuffing_attacks/",
+      "objectID": "931aa2aa7f22ae32d1d7dce28a4e95c4",
+      "summary": "Risks to Users of Online Platforms from Credential-Stuffing Attacks Credential stuffing attacks pose a high risk for users of online platforms. Criminals\u0026rsquo; access to online accounts can lead to financial damage, for example when purchasing goods with stolen credit cards or by exploiting access data to paid offers. Credential-stuffing attacks also pose a risk of identity theft, as attackers may have access to personal information and documents when they access an account.",
+      "tags": ["Credential Stuffing", "Password"],
+      "title": "Risks to Users and Operators of Online Platforms from Credential-Stuffing Attacks"
+    },
+    {
+      "date": "2023-01-24T00:00:00Z",
+      "href": "https://identeco.de/en/blog/credential_stuffing_a_threat_to_online_platforms_and_their_users/",
+      "objectID": "3bd429c8b4f85c9d87aff0853d24ac7a",
+      "summary": "Credential stuffing attacks are a cyber attack type in which attackers attempt to use credentials obtained through data leaks and other means on various online platforms. In these attacks, automated scripts are used to try out the credentials at high speed on many of these portals. If credentials are correct, attackers can usually fully access and abuse a legitimate user\u0026rsquo;s account.\nThe stolen credentials are often gathered in so-called collections and traded by criminals on the dark and deep web.",
+      "tags": ["Credential Stuffing"],
+      "title": "Credential Stuffing: A Threat to Online Platforms and Their Users"
+    },
+    {
+      "date": "2023-01-17T00:00:00Z",
+      "href": "https://identeco.de/en/blog/fast-user-friendly-gitmoji/",
+      "objectID": "2179fb2a83881ef2cf5d7dc69702e24f",
+      "summary": "In the world of software development, it is important to document changes to projects quickly and efficiently. One way to do this is to add emojis to commit messages to quickly identify the nature of the changes. A well-known and popular tool that we like to use at Identeco is gitmoji.\nBut what if you\u0026rsquo;re a programmer and want to work even faster and realize the meaning of emojis more quickly in the context of Semantic Versioning?",
+      "tags": ["Tool", "DevOps"],
+      "title": "Fast and User Friendly: Our Alternative to Gitmoji"
+    },
+    {
+      "date": "2023-01-16T00:00:00Z",
+      "href": "https://identeco.de/en/blog/dark_web_deep_web_surface_web/",
+      "objectID": "9a0c9ae937c1ffb037f1a6ba090e14dc",
+      "summary": "Many have heard of the Dark Web, as it is often depicted in movies and books. But what exactly is it? The regular Internet that people use in their everyday lives belongs to the so-called \u0026ldquo;Surface Web\u0026rdquo; and accounts for only 10% of the total amount of data on the World Wide Web. The Deep Web can be thought of as an intermediate layer between the Surface Web and the Dark Web.",
+      "tags": ["Deep Web", "Dark Web"],
+      "title": "Dark Web vs. Deep Web - What can you find there?"
+    },
+    {
+      "date": "2022-12-07T00:00:00Z",
+      "href": "https://identeco.de/en/blog/how-often-should-you-change-your-passwords/",
+      "objectID": "d96485781ef1b94ae0e9fa3b22518c96",
+      "summary": "Always and nearly everywhere you are told how to choose a secure password: Upper and lower case letters, numbers and special characters, no variations of already existing passwords and in no case use a password more than once. After you have chosen your password appropriately, the only question that remains is: how often you should change your passwords.\nOriginally, a regular password change several times a year was recommended, often every three months.",
+      "tags": ["Password"],
+      "title": "How often should you change your passwords?"
+    },
+    {
+      "date": "2022-12-01T00:00:00Z",
+      "href": "https://identeco.de/en/blog/ceo-fraud-corporate-phishing-angler-phishing-2/",
+      "objectID": "a28869ad2d8dc0c2fe4cb237ea75bb64",
+      "summary": "It is well known that the number of phishing attacks continues to increase. Just like the fact that Germany is one of the countries most affected. The first part of \u0026ldquo;Phishing, What Is It All About?\u0026rdquo; covered e-mail phishing, baiting and search engine phishing and explained how to protect yourself from these types of phishing. In this part, CEO Fraud, Corporate Phishing and Angler are presented.\nCEO Fraud Also known as Business Email Compromise (BEC), this is when email addresses of key people within a company, such as the CEO, have been captured.",
+      "tags": ["Phishing"],
+      "title": "Phishing, What Is It All About? (Part 2)"
+    },
+    {
+      "date": "2022-11-11T00:00:00Z",
+      "href": "https://identeco.de/en/blog/baiting-e-mail-phishing-suchmaschinen-phishing/",
+      "objectID": "f5e60f07781c8531898b2e8559443a8d",
+      "summary": "The number of phishing attacks increased by 29% in 2021 compared to the previous year, and Germany was the third most attacked country. But what exactly is \u0026ldquo;phishing\u0026rdquo;? In phishing, someone poses as a reputable and trustworthy person or company and, by manipulating the victim, achieves that the latter clicks on or opens a file, link or similar. This usually then leads to personal information being stolen or malware being installed.",
+      "tags": ["Phishing"],
+      "title": "Phishing, What Is It All About? (Part 1)"
+    },
+    {
+      "date": "2022-10-04T00:00:00Z",
+      "href": "https://identeco.de/en/blog/a-ransomware-secure-backup-strategy/",
+      "objectID": "49556e8ee1b4100c0ae93fc21091282d",
+      "summary": "We provide you with information about ransomware attacks, the attackers and their consequences. Based on this, you will receive requirements for a ransomware secure backup strategy and how you can implement this with BorgBackup to best protect yourself from an attack.\nRansomware is currently a real, serious threat […] which can also attract a lot of media attention. The probability that your company/agency will also be hit is currently high and realistic \u0026ndash; BSI Catalogue of Measures for Ransomware.",
+      "tags": ["Ransomware", "Backup"],
+      "title": "A Ransomware Secure Backup Strategy"
+    },
+    {
+      "date": "2022-09-15T00:00:00Z",
+      "href": "https://identeco.de/en/blog/speed-up-rust-ci-pipelines-that-use-tarpaulin/",
+      "objectID": "31068d7eb50da9520498b76f64d01f65",
+      "summary": "Rust is an awesome language. Not only does it provide you with runtime performance that is on par with languages like C and C++, but it also prevents you from shooting yourself in the foot thanks to a lot of compile time checks. This however means that the compiler has to do a lot more work compared to some other languages: Borrow checker, Types, Generics, Macros, LLVM Optimization… While those features do result in a better product, no one wants to sit around 30 minutes just to discover that a single test failed due to a typo.",
+      "tags": ["DevOps", "Rust", "Tool"],
+      "title": "Speed up Rust CI pipelines that use Tarpaulin"
+    },
+    {
+      "date": "2022-09-14T00:00:00Z",
+      "href": "https://identeco.de/en/blog/identeco-blog/",
+      "objectID": "dd1ca261cdd7f304d93879eec829b286",
+      "summary": "At Identeco, we learn new things every day. This is true for our developers, but also for our colleagues in sales and marketing as well as for our management. Since our society and the economy are changing continuously, we must enjoy constantly expanding our knowledge.\nDigitalization is a huge factor in rapid change. We want to play a part in ensuring that these changes don\u0026rsquo;t catch you cold. Because we believe that it is essential living an open culture of information and knowledge sharing when working with our customers.",
+      "tags": ["Blog"],
+      "title": "We're starting the Identeco Blog"
+    }
+    ]
