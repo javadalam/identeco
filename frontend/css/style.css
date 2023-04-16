@@ -1,0 +1,81 @@
+/* RESET STYLING CSS*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html ,body {
+    font-family: sans-serif;
+    line-height: 1.7rem;
+    background: lightgray;
+}
+
+a {
+    text-decoration: none;
+    color:#7c868d ;
+    font-weight: 700;
+}
+
+p {
+    margin: 10px 0 ;
+}
+.container {
+    margin: auto;
+    max-width: 90vw;
+    overflow: auto;
+    background: #fff;
+    height: 100vh;
+}
+
+/* Navbar */ 
+#praimary-nav { 
+    overflow: auto;
+   padding-top: 30px;
+}
+
+#praimary-nav h1  {
+    float: left;
+    padding: 20px;
+    
+}
+
+#praimary-nav ul  {
+    list-style: none;
+    float:right;
+}
+
+#praimary-nav ul li {
+  padding: 20px;
+  float: left;
+}
+
+#praimary-nav h1 a,
+#praimary-nav ul li a {
+    display: block;
+    text-align: center;
+    margin: 1px;
+    color:#7c868d ;
+    font-weight: 700;
+}
+
+#praimary-nav ul li a:hover {
+    
+    color: #00426b;
+}
+
+/* Footer */ 
+#main-footer {
+    background: #7c868d;
+}
+#main-footer .footer-logo,
+#main-footer p {
+    display: block;
+    text-align: center;
+    color: #fff;
+}
+.footer-logo img {
+    height: 2rem;
+   margin-top: 20px;
+}
